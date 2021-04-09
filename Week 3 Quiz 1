@@ -20,3 +20,12 @@ Filters: Exculde: 1
 
 After Eye Contact Game,Physical Reasoning Game, Physical Reasoning Warm-up the drop off of complete tests the greatest.
 
+Question 3
+If you remove all the entries associated with Shih Tzu dogs that weigh 190 pounds from the dognition_data_no_aggregation data set, how many different sequences of tests were administered to customers in the data that are left?
+
+columns: CNTD(Dog ID)
+rows: Rank by DogID
+Filters: weight (exclude 190), Exclude: 0
+color: Test Name
+
+the bat chart for each test name has at least 4 colors in them and this shows customers have at least 4 sequence in performing the tests.
