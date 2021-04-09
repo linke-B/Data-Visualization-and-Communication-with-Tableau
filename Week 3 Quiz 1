@@ -24,8 +24,8 @@ Question 3
 If you remove all the entries associated with Shih Tzu dogs that weigh 190 pounds from the dognition_data_no_aggregation data set, how many different sequences of tests were administered to customers in the data that are left?
 
 columns: CNTD(Dog ID)
-rows: Rank by DogID
+rows: Test name, Rank by DogID
 Filters: weight (exclude 190), Exclude: 0
 color: Test Name
 
-the bat chart for each test name has at least 4 colors in them and this shows customers have at least 4 sequence in performing the tests.
+The bars under each Test have as least 4 DogID. this shows customers have at least 4 sequence in performing the tests.
