@@ -1,0 +1,11 @@
+1. Use the dognition_data_no_aggregation data set provided in this course for this quiz.
+In the dognition_data_no_aggregation data set, the greatest drop offs of test-takers occur after a subcategory of tests is completed rather than while the subcategories of tests are still in progress.
+
+columns: Subcategory name; Test name
+Rows: CNT(DNA Tested)
+Filters: Exclude:1
+color: Subcategory name
+
+True
+As we can see under each subcategory each test's number of completion is nearly the same. Although under different subcategory, they have the huge difference.
+
