@@ -1,4 +1,5 @@
-1. Use the dognition_data_no_aggregation data set provided in this course for this quiz.
+Question 1
+Use the dognition_data_no_aggregation data set provided in this course for this quiz.
 In the dognition_data_no_aggregation data set, the greatest drop offs of test-takers occur after a subcategory of tests is completed rather than while the subcategories of tests are still in progress.
 
 columns: Subcategory name; Test name
@@ -8,4 +9,14 @@ color: Subcategory name
 
 True
 As we can see under each subcategory each test's number of completion is nearly the same. Although under different subcategory, they have the huge difference.
+
+Question 2
+In the dognition_data_no_aggregation data set, after which game is the drop-off of completed tests the greatest?
+
+columns: Rank by DogID
+rows: CNT(DNA Tested)
+color: Test name
+Filters: Exculde: 1
+
+After Eye Contact Game,Physical Reasoning Game, Physical Reasoning Warm-up the drop off of complete tests the greatest.
 
